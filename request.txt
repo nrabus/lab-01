@@ -1,0 +1,1 @@
+GET /~nrabus/HTTP/1.1\r\nHost: www.bradley.edu\r\n\r\n
